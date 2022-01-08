@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    padding-top: 3%;
+}
+
+#logo {
+    width: 30%;
+}
+
+#playButton {
+    text-decoration: none;
+    font-size: 75px;
+    background-color: #90D979;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+#playButton:hover {
+    cursor: pointer;
+}
